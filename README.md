@@ -1,1 +1,1 @@
-# GraphQL Apollo Seed
+# GraphQL Apollo Shopify
